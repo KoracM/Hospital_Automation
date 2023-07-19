@@ -1,0 +1,12 @@
+#tumunu gormezden gel
+*.*
+!.gitignore
+
+#sadece .java uzantili dosyalari yuklemek yeterli (bu calismadi) 
+!*.java
+!*.form
+!*.md
+#.java dosyalarinin oldugu dosya yolunu belirtelim
+!src/
+!src/main/
+!src/main/java/

@@ -1,0 +1,11 @@
+#tum dosayaları gormezden gel
+*
+!.gitignore
+
+#sadece .java uzantili dosyalari yuklemek yeterli (bu calismadi) 
+!*.java
+
+#.java dosyalarinin oldugu dosya yolunu belirtelim
+!src/
+!src/main
+!src/main/java
